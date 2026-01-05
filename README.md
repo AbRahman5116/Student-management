@@ -65,7 +65,7 @@ link : https://drive.google.com/file/d/1he7_SIals7ZL2KM9t5pMjjnPnyoZeIlY/view?us
 
 ## 📌 Output
 All query outputs are captured as screenshots and stored
-inside thes readme. md older.
+inside thes Readme.md folder.
 
 ## 👤 Submitted By
 Name: Abdurrahman Ateeque Ahmad
